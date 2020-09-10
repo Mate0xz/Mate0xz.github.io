@@ -1,0 +1,66 @@
+.lightyellow-background {
+	background-color: lightyellow;
+}
+.verylightblue-background {
+	background-color: #ebf5f4;
+}
+.amatic-sc {
+	font-family: 'Amatic SC', cursive;
+	font-size: 4.6875rem;
+}
+h3 { 
+	font-family: cursive;
+}
+.nanum-pen-script {
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 1.875rem
+}
+.button {
+	background-color: #2BCEEF;
+	padding: 10px;
+	text-decoration: none;
+	font-family: verdana;
+	color: white;
+}
+.imgleft {
+	float: left;
+}
+.imgcenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.imgright {
+	float: right;
+}
+.yellow {
+	color: yellow;
+}
+.cyan {
+	color: cyan;
+}
+.green {
+	color: #16e612;
+}
+.red {
+	color: red
+}
+.white {
+	color: white;
+}
+.blue {
+	color: blue
+}
+.orange {
+	color: #F27F0B
+}
+.londrina-solid-cyan {
+	font-family: 'Londrina Solid', cursive;
+	color: cyan;
+}
+.gochi-hand {
+	font-family: 'Gochi Hand', cursive;
+}
+.cursive {
+	font-family: cursive;
+}
