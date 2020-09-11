@@ -12,8 +12,11 @@ h3 {
 	font-family: cursive;
 }
 .nanum-pen-script {
-	font-family: 'Nanum Pen Script', cursive;
-	font-size: 1.875rem
+	font-family: 'Nanum Pen Script', cursive; 
+	font-size: 100px
+}
+.architects-daughter {
+	font-family: 'Architects Daughter', cursive;
 }
 .button {
 	background-color: #2BCEEF;
