@@ -20,8 +20,10 @@ h3 {
 	background-color: #2BCEEF;
 	padding: 10px;
 	text-decoration: none;
-	font-family: 'Poppins', sans-serif;;
 	color: white;
+}
+.poppins {
+	font-family: 'Poppins', sans-serif;
 }
 .imgleft {
 	float: left;
