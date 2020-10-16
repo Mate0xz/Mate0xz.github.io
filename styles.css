@@ -22,6 +22,9 @@ h3 {
 	text-decoration: none;
 	color: white;
 }
+.messy-cursive {
+	font-family: 'Cedarville Cursive', cursive;
+}
 .poppins {
 	font-family: 'Poppins', sans-serif;
 }
